@@ -1,0 +1,49 @@
+{
+  "_comment": "נתיבי מדיה בלבד. טקסט ו-alt נשארים ב-content.json. null = אין קובץ עדיין.",
+
+  "branding": {
+    "logo": "/media/branding/logo-light.png",
+    "logoLight": "/media/branding/logo-light.png",
+    "logoDark": "/media/branding/logo-dark.png",
+    "favicon": "/media/branding/favicon.png",
+    "appleTouchIcon": "/media/branding/apple-touch-icon.png"
+  },
+
+  "hero": {
+    "video": "/media/hero/desktop.mp4",
+    "videoMobile": null,
+    "poster": null,
+    "mobile": "/media/sections/barbershop.jpeg"
+  },
+
+  "about": {
+    "main": "/media/sections/barbershop.jpeg"
+  },
+
+  "services": {
+    "haircut": null,
+    "beard": null,
+    "combo": null,
+    "kids": null,
+    "shave": null,
+    "color": null
+  },
+
+  "team": {
+    "s1": null,
+    "s2": null,
+    "s3": null
+  },
+
+  "gallery": [],
+
+  "sections": {
+    "gift": null,
+    "cta": null,
+    "storefront": null
+  },
+
+  "seo": {
+    "ogImage": "/media/seo/og-image.png"
+  }
+}

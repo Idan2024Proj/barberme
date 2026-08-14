@@ -1,0 +1,324 @@
+{
+  "_הוראות": "כל טקסט באתר נמצא בקובץ הזה. שנה רק את מה שבתוך הגרשיים אחרי הנקודתיים. אל תמחק גרשיים, פסיקים או סוגריים. מפתחות שמתחילים ב-_ הם הערות בלבד ולא מוצגים באתר.",
+
+  "site": {
+    "name": "IP PARYENTE SALON",
+    "tagline": "החלק הכי טוב ביום שלך",
+    "phone": "052-000-0000",
+    "phoneE164": "+972520000000",
+    "whatsapp": "+972520000000",
+    "address": "רחוב הרצל 10, נשר",
+    "mapUrl": "https://maps.google.com/?q=...",
+    "instagram": "https://instagram.com/",
+    "facebook": "https://facebook.com/",
+    "tiktok": ""
+  },
+
+  "seo": {
+    "title": "IP PARYENTE SALON | מספרת גברים בנשר",
+    "description": "תספורות גברים, עיצוב זקן וטיפוח – מספרה בנשר. הזמנת תור אונליין תוך 30 שניות, בלי טלפונים ובלי המתנה.",
+    "ogImageAlt": "חזית המספרה"
+  },
+
+  "announcement": {
+    "enabled": true,
+    "text": "לקוח חדש? 20% הנחה על התספורת הראשונה",
+    "ctaLabel": "לקביעת תור",
+    "ctaHref": "/book"
+  },
+
+  "nav": {
+    "logoAlt": "לוגו המספרה",
+    "items": [
+      { "label": "בית", "href": "/" },
+      { "label": "שירותים", "href": "/services" },
+      { "label": "הצוות", "href": "/team" },
+      { "label": "גלריה", "href": "/gallery" },
+      { "label": "שובר מתנה", "href": "/gift" },
+      { "label": "צור קשר", "href": "/contact" }
+    ],
+    "bookLabel": "הזמנת תור",
+    "menuLabel": "תפריט",
+    "closeLabel": "סגירה"
+  },
+
+  "hero": {
+    "eyebrow": "מספרת גברים · נשר",
+    "title": "תספורת שלא צריך לתקן",
+    "subtitle": "ספרים שיודעים מה הם עושים, כיסא נוח, וחצי שעה שהיא באמת שלך. בלי תורים בטלפון, בלי לחכות בחוץ.",
+    "primaryCta": "הזמנת תור",
+    "secondaryCta": "למחירון",
+    "footnote": "* אלא אם באת עם צילום מסך של תספורת מ-2014. גם אז נסתדר.",
+    "scrollLabel": "גללו למטה",
+    "videoAlt": "ספר עובד על תספורת במספרה"
+  },
+
+  "about": {
+    "eyebrow": "עלינו",
+    "title": "עשה לעצמך טובה",
+    "body": "אנחנו לא סתם מספרה. זה המקום שבו נכנסים אחרי יום ארוך, מתיישבים, ויוצאים מרגישים אחרת. עובדים לאט, מקשיבים למה שאתה באמת רוצה, ולא מוציאים אף אחד עם תספורת שהוא לא ביקש.",
+    "imageAlt": "פנים המספרה",
+    "values": [
+      { "title": "ספרים מנוסים", "text": "כל אחד מהצוות עם ניסיון של שנים ותיק עבודות שאפשר לראות." },
+      { "title": "בלי המתנה", "text": "מזמינים תור מראש ונכנסים בזמן. הכיסא מחכה לך, לא להפך." },
+      { "title": "אווירה", "text": "מוזיקה טובה, קפה על הבית, ואפס לחץ." }
+    ]
+  },
+
+  "services": {
+    "eyebrow": "מה עושים כאן",
+    "title": "שירותים ומחירון",
+    "subtitle": "המחירים סופיים. אין הפתעות בקופה.",
+    "bookLabel": "הזמן שירות זה",
+    "allLabel": "לכל השירותים",
+    "durationSuffix": "דק'",
+    "currency": "₪",
+    "items": [
+      { "id": "haircut", "name": "תספורת גברים", "description": "תספורת מלאה, שטיפה, עיצוב וסידור.", "duration": 40, "price": 90, "active": true },
+      { "id": "beard", "name": "עיצוב זקן", "description": "עיצוב, קיצור וקווים חדים עם תער חם.", "duration": 25, "price": 60, "active": true },
+      { "id": "combo", "name": "תספורת + זקן", "description": "הקומבינציה הכי מבוקשת. חבילה מלאה.", "duration": 60, "price": 130, "active": true },
+      { "id": "kids", "name": "תספורת ילדים", "description": "עד גיל 12, בסבלנות ובלי דרמות.", "duration": 30, "price": 70, "active": true },
+      { "id": "shave", "name": "גילוח מסורתי", "description": "מגבת חמה, תער, ואפטר-שייב. חוויה שלמה.", "duration": 35, "price": 80, "active": true },
+      { "id": "color", "name": "צבע / הבהרה", "description": "בתיאום מראש. המחיר לפי אורך.", "duration": 90, "price": 200, "active": false }
+    ]
+  },
+
+  "team": {
+    "eyebrow": "הצוות",
+    "title": "מי מחזיק את המספריים",
+    "subtitle": "אפשר לבחור ספר בהזמנת התור, או להשאיר לנו.",
+    "bookWithLabel": "לתור אצל",
+    "members": [
+      { "id": "s1", "name": "שם הספר", "role": "ספר בכיר · בעלים", "instagram": "", "bio": "12 שנה במקצוע. מתמחה בפייד ובעיצוב זקן." },
+      { "id": "s2", "name": "שם הספר", "role": "ספר", "instagram": "", "bio": "מתמחה בתספורות קלאסיות ובגילוח מסורתי." },
+      { "id": "s3", "name": "שם הספר", "role": "ספר", "instagram": "", "bio": "הכי טוב עם ילדים. סבלנות של קדוש." }
+    ]
+  },
+
+  "gallery": {
+    "eyebrow": "עבודות",
+    "title": "רואים את ההבדל",
+    "subtitle": "כל התמונות מהמספרה שלנו. שום דבר לא סטוק.",
+    "fallbackAlt": "עבודה מהמספרה",
+    "images": [
+      { "alt": "תספורת פייד" },
+      { "alt": "עיצוב זקן" },
+      { "alt": "תספורת קלאסית" },
+      { "alt": "לפני ואחרי" }
+    ]
+  },
+
+  "giftBanner": {
+    "enabled": true,
+    "title": "מתנה שתמיד מתאימה במידה",
+    "text": "שובר מתנה דיגיטלי, נשלח מיד ל-SMS או לוואטסאפ. תקף שנה.",
+    "ctaLabel": "לרכישת שובר",
+    "ctaHref": "/gift",
+    "imageAlt": "שובר מתנה"
+  },
+
+  "testimonials": {
+    "eyebrow": "הלקוחות שלנו",
+    "title": "לא צריך להאמין לנו",
+    "ratingValue": "4.9",
+    "ratingMax": "5",
+    "ratingText": "על סמך 300+ ביקורות בגוגל",
+    "reviewsLink": "https://g.page/r/...",
+    "reviewsLinkLabel": "לכל הביקורות בגוגל",
+    "items": [
+      { "quote": "התספורת הכי טובה שקיבלתי. יצאתי מרוצה ולא צריך לתקן כלום.", "name": "שם הלקוח" },
+      { "quote": "מקום נקי, יחס מעולה, ותור אונליין שעובד. בדיוק מה שחיפשתי.", "name": "שם הלקוח" },
+      { "quote": "לוקח אותם את הזמן ומקשיבים. לא עוד מספרה של רבע שעה.", "name": "שם הלקוח" }
+    ]
+  },
+
+  "membership": {
+    "enabled": true,
+    "eyebrow": "כרטיסייה",
+    "title": "בא כל חודש? שווה לך",
+    "body": "לא חייבים כרטיסייה כדי להסתפר אצלנו, אבל מי שלוקח – משלם פחות ומקבל יותר.",
+    "perks": [
+      { "title": "מחיר קבוע", "text": "מחיר מוזל על כל תספורת, כל השנה." },
+      { "title": "סידור חינם", "text": "תיקון קווים בין תספורות, בלי תשלום." },
+      { "title": "עדיפות בתורים", "text": "משבצות ששמורות רק למנויים." }
+    ],
+    "ctaLabel": "לפרטי הכרטיסייה",
+    "ctaHref": "/gift"
+  },
+
+  "ctaBand": {
+    "title": "מתי בפעם האחרונה יצאת מרוצה?",
+    "subtitle": "לוקח 30 שניות לקבוע תור.",
+    "ctaLabel": "הזמנת תור",
+    "imageAlt": "רקע המספרה"
+  },
+
+  "shop": {
+    "eyebrow": "איפה אנחנו",
+    "title": "בואו לבקר",
+    "addressLabel": "כתובת",
+    "phoneLabel": "טלפון",
+    "whatsappLabel": "וואטסאפ",
+    "hoursLabel": "שעות פתיחה",
+    "parkingNote": "חניה חופשית ברחוב, ממש מול הכניסה.",
+    "openNow": "פתוח עכשיו",
+    "closedNow": "סגור כרגע",
+    "closedLabel": "סגור",
+    "storefrontAlt": "חזית המספרה",
+    "hours": [
+      { "day": "ראשון", "open": "09:00", "close": "20:00", "closed": false },
+      { "day": "שני", "open": "09:00", "close": "20:00", "closed": false },
+      { "day": "שלישי", "open": "09:00", "close": "20:00", "closed": false },
+      { "day": "רביעי", "open": "09:00", "close": "20:00", "closed": false },
+      { "day": "חמישי", "open": "09:00", "close": "21:00", "closed": false },
+      { "day": "שישי", "open": "08:00", "close": "14:00", "closed": false },
+      { "day": "שבת", "open": "", "close": "", "closed": true }
+    ]
+  },
+
+  "booking": {
+    "modalTitle": "הזמנת תור",
+    "closeConfirm": "לצאת מההזמנה? הפרטים שמילאת לא יישמרו.",
+    "backLabel": "חזרה",
+    "nextLabel": "המשך",
+    "loadingTitle": "טוען את היומן…",
+    "loadingText": "רגע אחד, בודקים אילו שעות פנויות.",
+
+    "step1": {
+      "title": "מה עושים היום?",
+      "subtitle": "אפשר לבחור יותר משירות אחד.",
+      "summaryDuration": "משך כולל",
+      "summaryPrice": "סה\"כ",
+      "emptyError": "צריך לבחור לפחות שירות אחד."
+    },
+
+    "step2": {
+      "title": "אצל מי?",
+      "anyStaff": "לא משנה לי",
+      "anyStaffNote": "הכי הרבה זמינות",
+      "unavailableNote": "לא מבצע את השירות שנבחר"
+    },
+
+    "step3": {
+      "title": "מתי נוח לך?",
+      "morning": "בוקר",
+      "noon": "צהריים",
+      "evening": "ערב",
+      "today": "היום",
+      "tomorrow": "מחר",
+      "noSlots": "אין שעות פנויות ביום הזה. נסה יום אחר.",
+      "fullDay": "מלא",
+      "closedDay": "סגור",
+      "holdNote": "השעה שמורה לך ל-10 דקות."
+    },
+
+    "step4": {
+      "title": "כמעט סיימנו",
+      "nameLabel": "שם מלא",
+      "namePlaceholder": "איך לקרוא לך?",
+      "nameError": "צריך למלא שם.",
+      "phoneLabel": "טלפון נייד",
+      "phonePlaceholder": "050-000-0000",
+      "phoneHint": "נשלח לשם קוד אימות. זה הזיהוי היחיד שלנו – אין הרשמה ואין סיסמה.",
+      "phoneError": "מספר נייד לא תקין. צריך מספר ישראלי שמתחיל ב-05.",
+      "notesLabel": "משהו שכדאי שנדע? (לא חובה)",
+      "notesPlaceholder": "לדוגמה: מגיע עם הילד, רגיש לתער...",
+      "marketingConsent": "אשמח לקבל עדכונים ומבצעים ב-SMS",
+      "privacyNote": "הפרטים נשמרים אצלנו בלבד ולא מועברים לאף גורם.",
+      "submitLabel": "שלחו לי קוד"
+    },
+
+    "step5": {
+      "title": "אימות מספר",
+      "sentTo": "שלחנו קוד בן 6 ספרות למספר",
+      "changeNumber": "מספר שגוי? שינוי מספר",
+      "inputLabel": "קוד אימות",
+      "verifying": "בודקים…",
+      "resendIn": "אפשר לשלוח קוד חדש בעוד {{seconds}} שניות",
+      "resendLabel": "שליחת קוד מחדש",
+      "resendSent": "קוד חדש נשלח.",
+      "errorWrong": "הקוד שגוי. נותרו {{attempts}} ניסיונות.",
+      "errorExpired": "הקוד פג תוקף. שלחנו לך קוד חדש.",
+      "errorLocked": "יותר מדי ניסיונות. אפשר לנסות שוב בעוד 15 דקות, או להתקשר אלינו: {{phone}}",
+      "errorTooMany": "נשלחו יותר מדי קודים למספר הזה. נסה שוב בעוד שעה.",
+      "errorNetwork": "משהו השתבש בחיבור. נסה שוב.",
+      "helpText": "לא קיבלת? בדוק שהמספר נכון ושיש קליטה. ההודעה מגיעה תוך כמה שניות."
+    },
+
+    "step6": {
+      "title": "התור נקבע ✓",
+      "subtitle": "שלחנו לך גם SMS עם כל הפרטים.",
+      "whenLabel": "מתי",
+      "whoLabel": "אצל",
+      "whatLabel": "מה",
+      "priceLabel": "מחיר",
+      "addToCalendar": "הוספה ליומן",
+      "navigate": "ניווט (Waze)",
+      "manageLabel": "ניהול או ביטול התור",
+      "doneLabel": "סגירה",
+      "lateNote": "מאחר ביותר מ-10 דקות? עדכן אותנו בוואטסאפ כדי שנשמור לך את התור."
+    },
+
+    "manage": {
+      "title": "התור שלך",
+      "rescheduleLabel": "שינוי מועד",
+      "cancelLabel": "ביטול התור",
+      "cancelConfirm": "לבטל את התור? הפעולה לא ניתנת לשחזור.",
+      "cancelledTitle": "התור בוטל",
+      "cancelledText": "חבל, אבל אפשר לקבוע חדש מתי שתרצה.",
+      "cancelPolicy": "ביטול עד 3 שעות לפני התור, בבקשה. זה מאפשר לנו לתת את המקום למישהו אחר.",
+      "expired": "הלינק הזה כבר לא בתוקף.",
+      "rebookLabel": "קביעת תור חדש"
+    }
+  },
+
+  "sms": {
+    "_הערה": "אפשר לשנות את הנוסח. אסור לשנות את מה שבתוך {{ }} – אלה שדות שמתמלאים אוטומטית.",
+    "otp": "{{code}} – קוד האימות שלך ב{{shopName}}. תקף ל-5 דקות. אל תעבירו אותו לאף אחד.",
+    "confirmation": "היי {{name}}, התור נקבע! {{date}} בשעה {{time}} · {{service}} · {{staff}}. לביטול או שינוי: {{link}}",
+    "reminder24h": "תזכורת: מחר בשעה {{time}} יש לך תור ב{{shopName}}. לא מתאים? {{link}}",
+    "reminder3h": "נתראה היום בשעה {{time}} 💈 {{address}}",
+    "cancelled": "התור שלך ל-{{date}} בוטל. נשמח לראותך בפעם הבאה: {{bookingLink}}",
+    "rescheduled": "התור עודכן: {{date}} בשעה {{time}}. נתראה!",
+    "staffAlert": "תור חדש: {{name}} · {{date}} {{time}} · {{service}}"
+  },
+
+  "footer": {
+    "about": "מספרת גברים בנשר. תספורות, עיצוב זקן וטיפוח – בלי לחץ ובלי המתנה.",
+    "columns": [
+      { "title": "המספרה", "links": [
+        { "label": "שירותים", "href": "/services" },
+        { "label": "הצוות", "href": "/team" },
+        { "label": "גלריה", "href": "/gallery" }
+      ]},
+      { "title": "תורים", "links": [
+        { "label": "הזמנת תור", "href": "/book" },
+        { "label": "שובר מתנה", "href": "/gift" },
+        { "label": "צור קשר", "href": "/contact" }
+      ]},
+      { "title": "מידע", "links": [
+        { "label": "תנאי שימוש", "href": "/terms" },
+        { "label": "מדיניות פרטיות", "href": "/privacy" },
+        { "label": "הצהרת נגישות", "href": "/accessibility" }
+      ]}
+    ],
+    "socialLabel": "עקבו אחרינו",
+    "instagramLabel": "Instagram",
+    "facebookLabel": "Facebook",
+    "tiktokLabel": "TikTok",
+    "copyright": "© {{year}} IP PARYENTE SALON. כל הזכויות שמורות.",
+    "credit": ""
+  },
+
+  "common": {
+    "loading": "טוען…",
+    "error": "משהו השתבש. נסה שוב בעוד רגע.",
+    "retry": "נסה שוב",
+    "close": "סגירה",
+    "required": "שדה חובה",
+    "notFoundTitle": "העמוד לא נמצא",
+    "notFoundText": "כנראה הלינק שבור. אפשר לחזור לעמוד הבית או פשוט לקבוע תור.",
+    "backHome": "לעמוד הבית",
+    "skipToContent": "דילוג לתוכן הראשי"
+  }
+}
