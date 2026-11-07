@@ -320,5 +320,18 @@
     "notFoundText": "כנראה הלינק שבור. אפשר לחזור לעמוד הבית או פשוט לקבוע תור.",
     "backHome": "לעמוד הבית",
     "skipToContent": "דילוג לתוכן הראשי"
+  },
+
+  "api": {
+    "availability": {
+      "invalidDate": "תאריך לא תקין.",
+      "dateOutOfRange": "התאריך מחוץ לטווח ההזמנה.",
+      "missingServices": "צריך לבחור לפחות שירות אחד.",
+      "unknownService": "שירות לא מוכר.",
+      "inactiveService": "השירות הזה לא זמין להזמנה.",
+      "unknownStaff": "ספר לא מוכר.",
+      "inactiveStaff": "הספר הזה לא זמין להזמנה.",
+      "incompatibleStaff": "הספר שנבחר לא מבצע את כל השירותים שנבחרו."
+    }
   }
 }

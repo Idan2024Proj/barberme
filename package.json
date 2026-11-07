@@ -6,22 +6,28 @@
     "dev": "next dev -p 3005",
     "build": "next build",
     "start": "next start -p 3005",
-    "lint": "next lint"
+    "lint": "next lint",
+    "test": "tsx --test tests/time.test.ts tests/availability.test.ts tests/db-constraints.test.ts",
+    "db:migrate": "tsx db/migrate.ts",
+    "db:seed": "tsx db/seed.ts"
   },
   "dependencies": {
     "framer-motion": "^11.15.0",
     "next": "14.2.18",
+    "pg": "^8.23.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
     "@types/node": "^20.17.10",
+    "@types/pg": "^8.21.0",
     "@types/react": "^18.3.14",
     "@types/react-dom": "^18.3.2",
     "eslint": "^8.57.1",
     "eslint-config-next": "14.2.18",
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.16",
+    "tsx": "^4.23.12",
     "typescript": "^5.7.2"
   }
 }
